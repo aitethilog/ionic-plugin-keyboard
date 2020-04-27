@@ -1,5 +1,5 @@
 {
-  "name": "ionic-plugin-keyboard",
+  "name": "ionic-plugin-keyboard-cc",
   "version": "2.2.1",
   "cordova": {
     "id": "ionic-plugin-keyboard",
@@ -12,7 +12,7 @@
     ]
   },
   "description": "Ionic Keyboard Plugin",
-  "repository": "https://github.com/aitethilog/ionic-plugin-keyboard.git.git",
+  "repository": "https://github.com/aitethilog/ionic-plugin-keyboard.git",
   "issue": "https://github.com/aitethilog/ionic-plugin-keyboard.git/issues",
   "keywords": [
     "ionic",
