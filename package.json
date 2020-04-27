@@ -12,8 +12,8 @@
     ]
   },
   "description": "Ionic Keyboard Plugin",
-  "repository": "https://github.com/aitethilog/ionic-plugin-keyboard.git",
-  "issue": "https://github.com/aitethilog/ionic-plugin-keyboard.git/issues",
+  "repository": "https://github.com/aitethilog/ionic-plugin-keyboard-cc.git",
+  "issue": "https://github.com/aitethilog/ionic-plugin-keyboard-cc.git/issues",
   "keywords": [
     "ionic",
     "cordova",
